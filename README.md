@@ -16,7 +16,7 @@ go to the wiki on the Github Page.
 - run: `pip install . --upgrade`
 - your done!
 
-**install from [pip](https://pypi.org/project/procprotect/)**
+**from [pip](https://pypi.org/project/procprotect/)**
 - run: `pip install procprotect`
 - your done!
 
