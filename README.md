@@ -10,7 +10,7 @@ go to the wiki on the Github Page [here](https://github.com/cookie0o/ProcProtect
 
 ## +Install:
 **manually**
-- Download the project
+- Download the project [here](https://github.com/cookie0o/ProcProtect)
 - cd in the project dir with the console
 - run: `pip install . --upgrade`
 - your done!
