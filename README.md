@@ -2,7 +2,7 @@
   
   # ProcProtect v0.1.14
   
-  **A package to get the current doomsday-clock time.**
+  **A package to protect your app from debugging, being run in a VM or dumping.**
 </div>
 
 ## +Info and usage:
