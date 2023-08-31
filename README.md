@@ -11,12 +11,12 @@ go to the wiki on the Github Page.
 
 ## +Install:
 **manually**
-- Download project
+- Download the project
 - cd in the project dir with the console
 - run: `pip install . --upgrade`
 - your done!
 
-**install with pip**
+**install from [pip](https://pypi.org/project/procprotect/)**
 - run: `pip install procprotect`
 - your done!
 
