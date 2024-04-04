@@ -6,11 +6,11 @@
 </div>
 
 ## +Info and usage:
-go to the wiki on the Github Page [here](https://github.com/sch-raphael/ProcProtect/wiki).  
+go to the wiki on the Github Page [here](https://github.com/cookie0o/ProcProtect/wiki).  
 
 ## +Install:
 **manually**
-- Download the project [here](https://github.com/sch-raphael/ProcProtect)
+- Download the project [here](https://github.com/cookie0o/ProcProtect)
 - cd in the project dir with the console
 - run: `pip install . --upgrade`
 - your done!
